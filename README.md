@@ -1,7 +1,7 @@
-# KinectTelevision
+# Kinect Television
 ================
 
-Tutorial that covers the camera basics of **Kinect** in **C#** & **XAML**.
+Tutorial that covers the camera basics of **Kinect for Windows v1** in **C#** & **XAML** based on SDK version v1.8.
 
 ![Kinecting for Windows logo](http://www.kinectingforwindows.com/wp-content/themes/twentyten/images/headers/logo.jpg)
 
